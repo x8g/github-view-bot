@@ -40,7 +40,7 @@ url = input(Colorate.Horizontal(Colors.blue_to_purple, 'Url?: '))
 
 threads = input(Colorate.Horizontal(Colors.blue_to_purple, 'Threads?: '))
 
-os.system(f'title Github Views ^| github/x8g')
+os.system(f'title GVB ^| Botting ^| ' + user + ' ^| github/x8g')
 def view():
  while True:
    response = requests.get(url)
