@@ -10,7 +10,7 @@ headers = {
 "accept-encoding": "gzip, deflate, br",
 "accept-language": "en-US,en;q=0.9",
 "cache-control": "max-age=0",
-"sec-ch-ua-mobile": "?0",adwadwawd
+"sec-ch-ua-mobile": "?0",
 "sec-ch-ua-platform": "Windows",
 "sec-fetch-dest": "document",
 "sec-fetch-mode": "navigate",
