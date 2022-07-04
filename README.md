@@ -5,5 +5,7 @@
 #
 > kinda fast
 #
-> cool looking aesthetic
+> most overkill github view botter
+#
+> 2 themes!
 #### **Made by zt#7380**
